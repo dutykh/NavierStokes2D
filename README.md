@@ -10,7 +10,14 @@ Some examples of simulations generated with this code are given below:
 
 [!["Video 3"](http://img.youtube.com/vi/EfVRpvwAEzI/2.jpg)](https://youtu.be/EfVRpvwAEzI)
 
+In animations above the vorticity distributions are shown.
+
 ## Author
 
-D. Dutykh
+D. Dutykh (CNRS -- LAMA, University Savoie Mont Blanc, France)
 [www.denys-dutykh.com](http://www.denys-dutykh.com/)
+
+
+### Acknowledgements
+
+We use [Text progress bar for ODEs](http://www.mathworks.com/matlabcentral/fileexchange/28509-text-progress-bar-for-odes) from Matlab Central.

@@ -20,4 +20,4 @@ D. Dutykh (CNRS -- LAMA, University Savoie Mont Blanc, France)
 
 ### Acknowledgements
 
-We use [Text progress bar for ODEs](http://www.mathworks.com/matlabcentral/fileexchange/28509-text-progress-bar-for-odes) from Matlab Central.
+We use [Text progress bar for ODEs](http://www.mathworks.com/matlabcentral/fileexchange/28509-text-progress-bar-for-odes) from Matlab Central server.

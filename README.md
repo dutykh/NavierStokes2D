@@ -15,6 +15,7 @@ In animations above the vorticity distributions are shown.
 ## Author
 
 D. Dutykh ([CNRS](http://www.cnrs.fr/insmi/) - [LAMA](http://www.lama.univ-savoie.fr/index.php), [University Savoie Mont Blanc](https://www.univ-smb.fr/), France)
+
 [www.denys-dutykh.com](http://www.denys-dutykh.com/)
 
 
